@@ -1,6 +1,6 @@
 # LaTeX Resume Template
 
-A Resume template written in <img src="https://latex.codecogs.com/png.latex?\text{ \LaTeX }" /> (intended to be compiled in XeLaTeX, to PDF). This template was built with software engineering in mind, though it's hopefully generic enough to be customized for any experience.
+A Resume template written in LaTeX (intended to be compiled in XeLaTeX, to PDF). This template was built with software engineering in mind, though it's hopefully generic enough to be customized for any experience.
 
 Visually, the compiled resume is simple and clean:
 
